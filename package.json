@@ -26,7 +26,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^3.0.2",
     "express": "~4.16.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "express-mung": "^0.5.1",
     "express-session": "~1.17.0",
     "express-validator": "^5.3.1",
