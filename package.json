@@ -39,7 +39,7 @@
     "knex": "^0.20.15",
     "knex-paginate": "^1.2.0",
     "mocha": "^7.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "morgan": "~1.9.1",
     "node-cron": "^2.0.3",
     "nodemailer": "^6.4.6",
