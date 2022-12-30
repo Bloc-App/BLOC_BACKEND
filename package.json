@@ -38,7 +38,7 @@
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.20.15",
     "knex-paginate": "^1.2.0",
-    "mocha": "^7.1.0",
+    "mocha": "^10.2.0",
     "moment": "^2.24.0",
     "morgan": "~1.9.1",
     "node-cron": "^2.0.3",
